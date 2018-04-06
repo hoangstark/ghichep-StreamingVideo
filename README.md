@@ -29,7 +29,7 @@ Internet: Có (Bắt buộc)
 
 ### Cài đặt ffmpeg để chuyển đổi video thường sang dạng Streaming (ts)
 
-Follow this instruction: [http://trac.ffmpeg.org/wiki/CompilationGuide/Ubuntu](Compile FFmpeg on Ubuntu, Debian, or Mint 
+Follow this instruction: [http://trac.ffmpeg.org/wiki/CompilationGuide/Ubuntu](Compile FFmpeg on Ubuntu, Debian, or Mint) 
 
 #### Sau khi biên dịch đủ 9 gói, chúng ta gõ lệnh `ffmpeg` để kiểm tra
 
